@@ -2,7 +2,7 @@
 
 ### 박병호 (DustinPark)   
 
-## - iOS Application Developer
+## * iOS Application Developer
 
 
 <!--
