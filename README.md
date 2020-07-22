@@ -2,7 +2,8 @@
 
 ### 박병호 (DustinPark)   
 
-* iOS Application Developer
+* iOS Application Developer 
+* Email : p4569zz@gmail.com
 
 
 <!--
