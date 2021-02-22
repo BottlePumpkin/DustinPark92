@@ -5,7 +5,7 @@
 * iOS Application Developer 
 * Email : p4569zz@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dustin)](https://github.com/DustinPark92/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
