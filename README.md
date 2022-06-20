@@ -2,5 +2,6 @@
 
 ### 박병호 (DustinPark)   
 
-* iOS Application Developer 
+* iOS
+* Flutter
 * Email : p4569zz@gmail.com
