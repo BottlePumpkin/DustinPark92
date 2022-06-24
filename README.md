@@ -4,4 +4,4 @@
 
 * iOS
 * Flutter
-* Email : p4569zz@gmail.com
+* Email : bottle-pumkin@dustiny.guru
